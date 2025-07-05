@@ -2,7 +2,7 @@ import json
 import random
 import csv
 import time
-import tkinter as tk
+
 from collections import defaultdict
 import matplotlib.pyplot as plt
 from config import *
