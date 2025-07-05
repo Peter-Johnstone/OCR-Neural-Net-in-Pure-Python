@@ -56,7 +56,7 @@ You’ll be asked to choose a mode:
 ## 🧠 Model Info
 
 - **Input layer**: 784 (28×28 pixel values)
-- **Hidden layer**: Adjustable (default 128 neurons)
+- **Hidden layer**: Adjustable (default 26 neurons)
 - **Output layer**: 26 (one per letter A–Z)
 - **Activation**: ReLU + Softmax
 - **Loss**: Categorical cross-entropy (via softmax derivative)
