@@ -53,7 +53,7 @@ You’ll be asked to choose a mode:
 
 ---
 
-## 🧠 Model Info
+## Model Info
 
 - **Input layer**: 784 (28×28 pixel values)
 - **Hidden layer**: Adjustable (default 26 neurons)
