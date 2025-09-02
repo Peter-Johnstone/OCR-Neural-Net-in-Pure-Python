@@ -1,10 +1,10 @@
-# 🧠 Handwritten Letter Recognition (A–Z)
+# Handwritten Letter Recognition (A–Z)
 
 A simple neural network built completely from scratch (no NumPy!) that learns to recognize **handwritten capital letters (A–Z)** using a custom `Matrix` class. It trains on a CSV dataset of pixel values and supports training, testing, and even a quiz mode where you try to beat the model.
 
 ---
 
-## ✨ Features
+## Features
 
 - Feedforward neural network with one hidden layer
 - Custom matrix math (dot product, softmax, ReLU, etc.)
@@ -15,7 +15,7 @@ A simple neural network built completely from scratch (no NumPy!) that learns to
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python 3.7+
 - `matplotlib` (for quiz visuals)
@@ -28,7 +28,7 @@ pip install matplotlib
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `main.py` – Runs the program (training, testing, quiz)
 - `matrix.py` – Custom matrix implementation
@@ -39,7 +39,7 @@ pip install matplotlib
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 python main.py
@@ -69,13 +69,13 @@ Edit `config.py` to tweak:
 
 ---
 
-## 📊 Example Metrics
+## Example Metrics
 
 ![img.png](readme_imgs/img_metrics.png)
 
 ---
 
-## 🎮 Quiz Mode
+## Quiz Mode
 
 The model will show you a handwritten letter. You guess it. The model guesses too. You get points for beating the AI.
 
@@ -85,7 +85,7 @@ Example:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 Kaggle:  
 **[A–Z Handwritten Letters in CSV Format](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)**
